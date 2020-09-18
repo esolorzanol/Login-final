@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "test-ext01": {
+      "hosting": {
+        "login": [
+          "test-ext01"
+        ]
+      }
+    }
+  }
+}
